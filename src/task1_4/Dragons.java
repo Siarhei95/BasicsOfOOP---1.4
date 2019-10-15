@@ -11,7 +11,4 @@ public class Dragons {
     public String getDragon(){
         return dragon;
     }
-
 }
-
-
